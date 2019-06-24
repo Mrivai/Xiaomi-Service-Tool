@@ -50,7 +50,7 @@ Note: This application is under development stage, Im not resposible for any pro
 
 #### Author 
 
-- [Mrivai](https://github.com/mrivai89) 
+- [Mrivai](https://github.com/Mrivai) 
 
 #### Screenshots
 <p align="center">
