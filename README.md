@@ -4,7 +4,7 @@
 Xiaomi Service Tool (xiaomi redmi note 3 pro toolkit) is an application created to solve existing software problems on a Qualcomm chipset based xiaomi smartphone (case study smartphone xiaomi redmi note 3 pro). So far to overcome the problem of software need a tool Box Flasher which is usually used by technicians service mobile phone, then how about end users who want to repair their own mobile phone without having to buy the tool that the price is not cheap. Therefore needs to be made an application that has several functions similar to the tool to facilitate users in improving the existing software on the user's smartphone.
 
 
-#### Features
+## Features
 - Auto detect connected device.
 - Screencast.
 - Gesture Control.
@@ -42,17 +42,21 @@ Xiaomi Service Tool (xiaomi redmi note 3 pro toolkit) is an application created 
 	- recovery.
 	- EDL.
 
-#### Usage
+## Build
+
+Clone repo :point_right: open solution in Visual Studio :point_right: add reference :point_right: build :facepunch:
+
+## Usage
 
 Please install device driver and enable device usb debug before using this app.
 
 Note: This application is under development stage, Im not resposible for any problem comes by using this app
 
-#### Author 
+## Author 
 
 - [Mrivai](https://github.com/Mrivai) 
 
-#### Screenshots
+## Screenshots
 <p align="center">
 <img src="./screenshots/splash_screen.png">
 <img src="./screenshots/main_menu.png">
