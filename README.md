@@ -3,6 +3,30 @@
 
 Xiaomi Service Tool (xiaomi redmi note 3 pro toolkit) is an application created to solve existing software problems on a Qualcomm chipset based xiaomi smartphone (case study smartphone xiaomi redmi note 3 pro). So far to overcome the problem of software need a tool Box Flasher which is usually used by technicians service mobile phone, then how about end users who want to repair their own mobile phone without having to buy the tool that the price is not cheap. Therefore needs to be made an application that has several functions similar to the tool to facilitate users in improving the existing software on the user's smartphone.
 
+## Screenshots
+<p align="center">
+<img src="./screenshots/splash_screen.png">
+<img src="./screenshots/main_menu.png">
+<img src="./screenshots/flash.png">
+<img src="./screenshots/unlock.png">
+<img src="./screenshots/unlock1.png">
+<img src="./screenshots/unlock2.png">
+<img src="./screenshots/unlock3.png">
+<img src="./screenshots/unlock4.png">
+<img src="./screenshots/install.png">
+<img src="./screenshots/install1.png">
+<img src="./screenshots/install2.png">
+<img src="./screenshots/install3.png">
+<img src="./screenshots/install4.png">
+<img src="./screenshots/install5.png">
+<img src="./screenshots/install6.png">
+<img src="./screenshots/wipe.png">
+<img src="./screenshots/backup.png">
+<img src="./screenshots/adv.png">
+<img src="./screenshots/reboot.png">
+<img src="./screenshots/imei.png">
+<img src="./screenshots/about.png">
+</p>
 
 ## Features
 - Auto detect connected device.
@@ -56,27 +80,3 @@ Note: This application is under development stage, Im not resposible for any pro
 
 - [Mrivai](https://github.com/Mrivai) 
 
-## Screenshots
-<p align="center">
-<img src="./screenshots/splash_screen.png">
-<img src="./screenshots/main_menu.png">
-<img src="./screenshots/flash.png">
-<img src="./screenshots/unlock.png">
-<img src="./screenshots/unlock1.png">
-<img src="./screenshots/unlock2.png">
-<img src="./screenshots/unlock3.png">
-<img src="./screenshots/unlock4.png">
-<img src="./screenshots/install.png">
-<img src="./screenshots/install1.png">
-<img src="./screenshots/install2.png">
-<img src="./screenshots/install3.png">
-<img src="./screenshots/install4.png">
-<img src="./screenshots/install5.png">
-<img src="./screenshots/install6.png">
-<img src="./screenshots/wipe.png">
-<img src="./screenshots/backup.png">
-<img src="./screenshots/adv.png">
-<img src="./screenshots/reboot.png">
-<img src="./screenshots/imei.png">
-<img src="./screenshots/about.png">
-</p>

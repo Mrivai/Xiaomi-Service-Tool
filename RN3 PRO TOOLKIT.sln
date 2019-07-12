@@ -1,9 +1,10 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RN3 PRO TOOLKIT", "RN3 PRO TOOLKIT\RN3 PRO TOOLKIT.csproj", "{3D23BE68-52E7-479A-92ED-BF12A0A66B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qualcomm Imei Changer", "Qualcomm Imei Changer\Qualcomm Imei Changer.csproj", "{50E79E88-2E38-4205-9BC6-CD3E91108552}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +16,15 @@ Global
 		{3D23BE68-52E7-479A-92ED-BF12A0A66B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D23BE68-52E7-479A-92ED-BF12A0A66B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D23BE68-52E7-479A-92ED-BF12A0A66B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E79E88-2E38-4205-9BC6-CD3E91108552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E79E88-2E38-4205-9BC6-CD3E91108552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E79E88-2E38-4205-9BC6-CD3E91108552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E79E88-2E38-4205-9BC6-CD3E91108552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F08CD48-583C-4508-B50C-DB0F098DFD47}
 	EndGlobalSection
 EndGlobal

@@ -102,13 +102,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MetroFramework">
-      <HintPath>..\..\..\Visual Studio 2013\CyberPhreakerWebBrowser\CyberPhreakerWebBrowser\bin\Debug\MetroFramework.dll</HintPath>
+      <HintPath>..\..\..\..\Mrivai\Source Code\References\MetroFramework.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Design">
-      <HintPath>..\..\..\Visual Studio 2013\CyberPhreakerWebBrowser\CyberPhreakerWebBrowser\bin\Debug\MetroFramework.Design.dll</HintPath>
+      <HintPath>..\..\..\..\Mrivai\Source Code\References\MetroFramework.Design.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Fonts">
-      <HintPath>..\..\..\Visual Studio 2013\CyberPhreakerWebBrowser\CyberPhreakerWebBrowser\bin\Debug\MetroFramework.Fonts.dll</HintPath>
+      <HintPath>..\..\..\..\Mrivai\Source Code\References\MetroFramework.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -134,7 +134,7 @@
     <Reference Include="WindowsBase" />
     <Reference Include="WindowsFormsIntegration" />
     <Reference Include="XiaomiLib">
-      <HintPath>bin\Release\XiaomiLib.dll</HintPath>
+      <HintPath>..\Reference\XiaomiLib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
